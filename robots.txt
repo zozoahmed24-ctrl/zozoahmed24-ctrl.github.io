@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zozoahmed24-ctrl.github.io/sitemap.xml
